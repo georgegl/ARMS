@@ -1,0 +1,4 @@
+reuters
+http://feeds.reuters.com/reuters/businessNews
+marketwatch
+http://feeds.marketwatch.com/marketwatch/financial
